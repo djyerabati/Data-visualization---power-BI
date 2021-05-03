@@ -1,2 +1,2 @@
 # Data-visualization---power-BI
-data visualizations sttendance trends 
+data visualizations on attendance trends 
